@@ -5,7 +5,7 @@ function digitalDecipher(eMessage, key){
         // console.log(key_index); // Testing key index    
 	}
 
-    // console.log(eMessage); // Testing deciphered eMessage numbers
+    	// console.log(eMessage); // Testing deciphered eMessage numbers
 	const alpha = '0abcdefghijklmnopqrstuvwxyz';
 
 	let decipher = '';
